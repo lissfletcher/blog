@@ -4,7 +4,7 @@ name: My blog
 description: A jekyll theme
 
 # url is currently only used only for the RSS feed in feed.xml
-#url: https://scotte.github.io/jekyll-clean
+url: 
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
@@ -13,8 +13,8 @@ description: A jekyll theme
 baseurl:
 
 # These can be '' to hide the Github or Gitlab nav buttons
-#github: 'scotte/jekyll-clean'
-#gitlab: ''
+github: ''
+gitlab: ''
 
 # Set this to your UA-# value, or '' to disable the block completely
 gaaccount: ''
